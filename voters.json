@@ -1,0 +1,32 @@
+[
+  {
+    "voterSerial": 1,
+    "voterNameEnglish": "Md. Rahim Uddin",
+    "voterNameBangla": "মোঃ রহিম উদ্দিন",
+    "fatherName": "Md. Abdul Karim",
+    "motherName": "Mrs. Salma Begum",
+    "dateOfBirth": "1998-03-15",
+    "gender": "Male",
+    "nationalId": "19981234567890123"
+  },
+  {
+    "voterSerial": 2,
+    "voterNameEnglish": "Md. Hasan Ali",
+    "voterNameBangla": "মোঃ হাসান আলী",
+    "fatherName": "Md. Siraj Uddin",
+    "motherName": "Mrs. Rokeya Begum",
+    "dateOfBirth": "1996-08-22",
+    "gender": "Male",
+    "nationalId": "19960822123456789"
+  },
+  {
+    "voterSerial": 3,
+    "voterNameEnglish": "Fatema Akter",
+    "voterNameBangla": "ফাতেমা আক্তার",
+    "fatherName": "Md. Nur Islam",
+    "motherName": "Mrs. Ayesha Khatun",
+    "dateOfBirth": "2000-01-10",
+    "gender": "Female",
+    "nationalId": "20000110123456780"
+  }
+]
